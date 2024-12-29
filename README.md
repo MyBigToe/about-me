@@ -1,3 +1,6 @@
+Welcome to my first GitHub project.
+I'm excited to be learnig new skills.
+                 
                  ,_
        _,..._  ,d$$ccc_
       d$$$$$$hc$$$$$$$$h.
