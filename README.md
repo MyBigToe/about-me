@@ -1,5 +1,5 @@
-Welcome to my first GitHub project.
-I'm excited to be learnig new skills.
+**Welcome to my first GitHub project.**
+__I'm excited to be learnig new skills.__
 
                  ,_
        _,..._  ,d$$ccc_
@@ -34,16 +34,6 @@ d$$$$$$   |        O ' `.
 
 
 
-
-
-
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
 
 
 
