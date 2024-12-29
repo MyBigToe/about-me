@@ -1,6 +1,6 @@
 **Welcome to my first GitHub project.**<br/>
 _I'm excited to be learnig new skills._
-~~strikethrough~~?
+~~Thank you for visiting.~~?
  
 
 
