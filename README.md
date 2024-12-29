@@ -1,6 +1,8 @@
 Welcome to my first GitHub project.
 I'm excited to be learnig new skills.
-                 
+                 <div style="color:green">
+    Markdown inline css styles
+</div>
                  ,_
        _,..._  ,d$$ccc_
       d$$$$$$hc$$$$$$$$h.
