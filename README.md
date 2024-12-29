@@ -1,8 +1,8 @@
-**Welcome to my first GitHub project.**<br/><br/>
+**Welcome to my first GitHub project.**<br/>
 _I'm excited to be learnig new skills._
 
-                 ,_
-       _,..._  ,d$$ccc_
+                 ,_<br/>
+       _,..._  ,d$$ccc_<br/>
       d$$$$$$hc$$$$$$$$h.
     ,d$$$$$$$$$$$$$$$O$$$.
    ,$$$$h$$$$$FF$$$$$$$$$|
