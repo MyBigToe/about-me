@@ -1,4 +1,4 @@
-**Welcome to my first GitHub project.**
+**Welcome to my first GitHub project.**<br/><br/>
 _I'm excited to be learnig new skills._
 
                  ,_
