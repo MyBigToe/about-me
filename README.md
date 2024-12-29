@@ -1,7 +1,7 @@
 **Welcome to my first GitHub project.**<br/>
 _I'm excited to be learnig new skills._
 
-Using two asterisks **this text is bold**.  
+ 
 Two underscores __work as well__.  
 Let's make it *italic now*.  
 You guessed it, _one underscore is also enough_.  
