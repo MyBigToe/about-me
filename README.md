@@ -1,5 +1,5 @@
 **Welcome to my first GitHub project.**
-__I'm excited to be learnig new skills.__
+_I'm excited to be learnig new skills._
 
                  ,_
        _,..._  ,d$$ccc_
