@@ -1,14 +1,17 @@
-This repository is for practicing the GitHub Flow.
-<br/>
-<br/>
-<br/>
->**Welcome to my first GitHub project.**
-><br/>
->>_I'm excited to be learnig new skills._
->><br/>
->>>**_~~Thank you for visiting.~~_**,
->>><br/>
->>>> _MyBigToe_ 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 
