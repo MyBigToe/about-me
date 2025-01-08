@@ -1,7 +1,7 @@
 
 
 > [!IMPORTANT]
-> > :superhero: About Me - Steven "MyBigToe"
+> > :superhero: About Me - Steven "MyBigToe" Carroll
 
 
 
