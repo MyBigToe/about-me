@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!NOTE][^1]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
