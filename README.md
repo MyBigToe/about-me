@@ -1,5 +1,5 @@
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> About Me - MyBigToe
 
 > [!TIP]
 > Helpful advice for doing things better or more easily.
